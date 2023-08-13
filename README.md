@@ -10,4 +10,3 @@ Furthermore, the codes were used to answer questions such as:
 4). In which property is the parking space in excess?
 5). Where is more active parking- owned/leased?
 6). Which states have more leased parking?
-
